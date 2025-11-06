@@ -3,3 +3,4 @@ Welcome to the official repository for the CSS Background Generator Chrome exten
 
 ![image alt](https://github.com/satyaki123/chrome-extension-css-generator/blob/a192c7d16bef2aab60100c1febbc2eb6fb600cf0/Screenshot%20(27).png)
 ![image alt](https://github.com/satyaki123/chrome-extension-css-generator/blob/b972546d5087656f7929df456ecd461a9d01b771/Screenshot%20(28).png)
+![image alt](https://github.com/satyaki123/chrome-extension-css-generator/blob/0366605da5a86244083538fe486b275abd817092/Screenshot%20(29).png)
